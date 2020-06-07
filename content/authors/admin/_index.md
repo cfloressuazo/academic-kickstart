@@ -51,7 +51,7 @@ user_groups:
 ---
 I’ve had 7 years of experience working in Artificial Intelligence, Data Science and Engineering and I enjoy merging these fields with creativity and strategic thinking.
 
-I'm currently managing an Engineering Team and leading the technical design, development and implementation for an **Enterprise Data Platform** which support end-to-end Data Products and Machine learning workflows in production for a Strategy and Analytics Consultancy company in Amsterdam, The Netherlands.
+I'm currently **Managing an Engineering Team** and leading the technical design, development and implementation for an **Enterprise Data Platform** which support end-to-end Data Products and Machine learning workflows in production for a Strategy and Analytics Consultancy company in Amsterdam, The Netherlands.
 
 I've worked as a **Leading Data Scientist** in an innovative start-up: Intelligens Ltda. (now part of Conversica), building the NLP engine of the product, resulting in sales AI assistants for businesses to engage their leads through personalized emails and SMS texts.
 
