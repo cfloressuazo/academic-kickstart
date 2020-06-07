@@ -13,8 +13,10 @@ interests:
   - Artificial Intelligence
   - Data Product Development
   - Software & Data Engineering
-  - Music
-  - Arts and Sports
+  - Natural Language Processing
+  - Music & Arts
+  - Philosophy
+  - Sports
 social:
   - icon: envelop
     icon_pack: fas
@@ -31,15 +33,12 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/cesarflsz/
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/Levitoh
 education:
   courses:
     - course: MEng in Information Technology
       institution: Universidad Adolfo Ibáñez
       year: 2015
-    - course: BSc Civil Engineering, Industrial
+    - course: BSc Civil Industrial Engineering
       institution: Universidad Adolfo Ibáñez
       year: 2014
     - year: 2020
@@ -58,4 +57,4 @@ I've worked as a **Leading Data Scientist** in an innovative start-up: Intellige
 
 I've also worked as a **Data Engineer**, building an operational data warehousing product to track the efficiency of communication between internal transactional IT systems. Other roles include the assessment of Cloud Computing services, building an ML solution for predictive maintenance and Internship in a communication company.
 
-During my free time, I enjoy learning about new things in life, reading books, philosophy, economics, playing with my kid, hiking with my dog, snowboarding with friends, surfing and lately biking around.
+During my free time, I enjoy learning about new things in life, reading books, cooking, philosophy, economics, playing with my kid, hiking with my dog, snowboarding with friends, surfing and lately biking around.
