@@ -40,9 +40,6 @@ education:
     - course: BSc Civil Industrial Engineering
       institution: Universidad Adolfo Ibáñez
       year: 2014
-    - year: 2020
-      institution: DeepLearning.ai
-      course: Advanced Deployment Scenarios with TensorFlow
 email: ""
 user_groups:
   - Researchers
