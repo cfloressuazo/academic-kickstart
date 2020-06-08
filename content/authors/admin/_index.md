@@ -7,14 +7,13 @@ authors:
   - admin
 title: Cesar Flores
 role: Manager & Senior Data Engineer
-bio: My interests include Artificial Intelligence, NLP, Data and Software
-  Engineering, Visual arts capturing shades and movement.
+bio: ""
 interests:
   - Artificial Intelligence
   - Data Product Development
   - Software & Data Engineering
   - Natural Language Processing
-  - Music & Arts
+  - Music & Visual Arts
   - Philosophy
   - Sports
 social:
@@ -52,4 +51,4 @@ I'm currently **Managing an Engineering Team** and leading the technical design,
 
 I've worked as a **Leading Data Scientist** in an innovative start-up building the NLP engine of the product, resulting in sales AI assistants for businesses to engage their leads through personalized emails and SMS texts.
 
-I've also worked as a **Data Engineer**, building an operational data warehousing product to track the efficiency of communication between internal transactional IT systems.
+I've also worked as a **Data Engineer**, building an operational data warehousing product to track the efficiency of communication between internal transactional IT systems, Cloud migration and general data system architecture.
