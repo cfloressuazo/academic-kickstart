@@ -7,7 +7,8 @@ authors:
   - admin
 title: Cesar Flores
 role: Manager & Senior Data Engineer
-bio: ""
+bio: My interests include Artificial Intelligence, NLP, Data and Software
+  Engineering, Visual arts capturing shades and movement.
 interests:
   - Artificial Intelligence
   - Data Product Development
@@ -45,7 +46,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm an Engineer with 7 years of experience in the private sectoras manager, tech lead and data engineer. My interests include merging creativity, technology and strategic thinking altogether to build digital products involving Natural Language Processing, Artificial Intelligence, Big Data & Analytics.
+I'm an Engineer with 7 years of experience in the private sector as a manager, tech lead and data engineer. My interests include merging creativity, technology and strategic thinking altogether to build digital products involving Natural Language Processing, Artificial Intelligence, Big Data & Analytics.
 
 I'm currently **Managing an Engineering Team** and leading the technical design, development and implementation of an **Enterprise Data Platform** for a Strategy and Analytics Consultancy company in Amsterdam, The Netherlands.
 
