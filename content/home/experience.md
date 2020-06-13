@@ -18,18 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Engineering Manager"
+  company = "YGroup Companies"
+  company_url = "https://www.ygroupcompanies.com/"
+  location = "Amsterdam, NL"
+  date_start = "2020-03-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Project Management
+  * Product Roadmap and Goal Settings
+  * Communication with stakeholders
+  * Direction and Technical leadership
+  """
+
+[[experience]]
+  title = "Senior Data Engineer"
+  company = "YGroup Companies"
+  company_url = "https://www.ygroupcompanies.com/"
+  location = "Amsterdam, NL"
+  date_start = "2018-07-01"
+  date_end = "2020-03-01"
+  description = """
+  Responsibilties include:
+
+  * Design and implementation of Data Lake
+  * Development of Big Data Warehouse
+  * Integration of Data Sources
+  * Technical Development of data products
+  * Machine Learning workflows in production
+
+  Technical Stack:
+  
+  * Azure, AWS
+  * Python, Apache Spark
+  * Tensorflow and TFX
+  * Apache Airflow
+  * SQL, Hive
+  * Docker & Kubernetes
+  * Databricks
   """
 
 [[experience]]
