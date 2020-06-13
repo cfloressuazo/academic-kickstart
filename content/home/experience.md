@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ygroupcompanies.com/"
   location = "Amsterdam, NL"
   date_start = "2018-07-01"
-  date_end = "2020-03-01"
+  date_end = ""
   description = """
   Responsibilties include:
 
@@ -49,11 +49,12 @@ date_format = "Jan 2006"
   * Technical Development of data products
   * Machine Learning workflows in production
 
-  Technical Stack:
+  Technology Stack:
   
   * Azure, AWS
   * Python, Apache Spark
   * Tensorflow and TFX
+  * API integrations
   * Apache Airflow
   * SQL, Hive
   * Docker & Kubernetes
@@ -61,12 +62,30 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Team Lead & Data Scientist"
+  company = "Intelligens - Conversica"
+  company_url = "https://www.conversica.com/"
+  location = "Santiago, Chile"
+  date_start = "2016-06-01"
+  date_end = "2018-07-01"
+  description = """
+  I lead the team developing a natural language processing engine in the company for conversational Artificial Intelligence.
+
+  Responsibilities include:
+  * Development a natural approach to accomplish Human-Like Conversational AI
+  * Design the feature roadmap for NLP and Natural Language Understanding into the system
+  * Build Artificial Intelligence customizable process based on user's interaction.
+  * designed, built and managed automated self-learning pipeline.
+  * Train and Deploy Machine Learning and Deep Learning Models in production
+  * Design and Implementation of a data processing platform for analytics using Big Data tools
+  
+  Technology Stack:
+  * AWS, Machine Learning, SageMaker, Lambda
+  * Python, SQL
+  * Pandas, NLTK, scikit-learn
+  * Tensorflow, Apache MXNet
+  * NoSQL (DynamoDB)
+  * SQL (PostgreSQL)
+  """
 
 +++
