@@ -1,12 +1,13 @@
 ---
+title: Cesar Flores
+role: Manager & Senior Data Engineer
+avatar_filename: 118193730_360123721662277_3853355216290552638_n.jpg
 organizations:
   - name: Marley Spoon GA
     url: https://marleyspoon.de/
 superuser: true
 authors:
   - admin
-title: Cesar Flores
-role: Manager & Senior Data Engineer
 bio: ""
 interests:
   - Artificial Intelligence
@@ -47,4 +48,4 @@ user_groups:
 ---
 I'm an Engineer with 7 years of experience in the private sector as a manager, tech lead and data engineer. My interests include merging creativity, technology and strategic thinking altogether to build digital products involving Natural Language Processing, Artificial Intelligence, Big Data & Analytics.
 
-I'm currently working at [Marley Spoon](https://marleyspoon.de/) as a Senior Data Engineer based in Berlin, bringing delightful, market-fresh and easy cooking back to the people and contributing with my grain of sand to the environment by building a sustainable supply chain for a waste free world waste-free.
+I'm currently working at [Marley Spoon](https://marleyspoon.de/) as a Senior Data Engineer based in Berlin, bringing delightful, market-fresh and easy cooking back to the people and contributing with my grain of sand to the environment by building a sustainable supply chain for a waste free world.
