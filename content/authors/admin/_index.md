@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: YGroup Companies
-    url: https://www.ygroupcompanies.com/
+  - name: Marley Spoon GA
+    url: https://marleyspoon.de/
 superuser: true
 authors:
   - admin
@@ -47,8 +47,4 @@ user_groups:
 ---
 I'm an Engineer with 7 years of experience in the private sector as a manager, tech lead and data engineer. My interests include merging creativity, technology and strategic thinking altogether to build digital products involving Natural Language Processing, Artificial Intelligence, Big Data & Analytics.
 
-I'm currently **Managing an Engineering Team** and leading the technical design, development and implementation of an **Enterprise Data Platform** for a Strategy and Analytics Consultancy company in Amsterdam, The Netherlands.
-
-I've worked as a **Leading Data Scientist** in an innovative start-up building the NLP engine of the product, resulting in sales AI assistants for businesses to engage their leads through personalized emails and SMS texts.
-
-I've also worked as a **Data Engineer**, building an operational data warehousing product to track the efficiency of communication between internal transactional IT systems, Cloud migration and general data system architecture.
+I'm currently working at [Marley Spoon](https://marleyspoon.de/) as a Senior Data Engineer based in Berlin, bringing delightful, market-fresh and easy cooking back to the people and contributing with my grain of sand to the environment by building a sustainable supply chain for a waste free world waste-free.
