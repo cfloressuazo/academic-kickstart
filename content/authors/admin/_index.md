@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 organizations:
   - title: Marley Spoon GA
     url: https://marleyspoon.de/
+    name: Marley Spoon GA
 superuser: true
 authors:
   - admin
