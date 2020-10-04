@@ -3,7 +3,7 @@ title: Cesar Flores
 role: Manager & Senior Data Engineer
 avatar_filename: avatar.jpg
 organizations:
-  - name: Marley Spoon GA
+  - title: Marley Spoon GA
     url: https://marleyspoon.de/
 superuser: true
 authors:

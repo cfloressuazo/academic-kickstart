@@ -89,15 +89,15 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cfloressuazo@gmail.com"
-phone = "+31 6 821 34 98"
+phone = "+56 9 9916 26 53"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Albert Cuypstraat 247", city = "Amsterdam", region = "North Holland", postcode = "1073 BH", country = "The Netherlands", country_code = "NL"}
+address = {street = "Mühsamstraße 65", city = "Berlin", region = "", postcode = "10249", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.356850", longitude = "4.898014"}
+coordinates = {latitude = "52.521127", longitude = "13.453242"}
 
 # Directions for visitors to locate you.
 # directions = "Knock knock the door"
@@ -211,6 +211,16 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+# Show related content at the bottom of pages?
+show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+   
+# Show a copyright license from creativecommons.org in the site footer?
+# Page specific copyright licenses are also possible by adding this option to a page's front matter.
+copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+   
+# Highlight the site author (superuser) in author lists? (true/false)
+highlight_superuser = false
+
 ############################
 ## Comments
 ############################
@@ -284,6 +294,19 @@ plugins_js  = []
 ############################
 ## Content Management System
 ############################
+#[cms]
+#  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+#  netlify_cms = true
+
+############################
+## Content Management System
+############################
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+ # See https://sourcethemes.com/academic/docs/install/
+ netlify_cms = true
+  
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+ ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
