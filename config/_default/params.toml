@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Cesar Flores, Data and Engineer"
 
 ############################
 ## Site Features
@@ -62,11 +62,11 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -93,7 +93,7 @@ phone = "+56 9 9916 26 53"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Mühsamstraße 65", city = "Berlin", region = "", postcode = "10249", country = "Germany", country_code = "DE"}
+address = {street = "Kopernikusstrasse 20", city = "Berlin", region = "", postcode = "10245", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -213,11 +213,11 @@ plugins_js  = []
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
-   
+
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
-   
+
 # Highlight the site author (superuser) in author lists? (true/false)
 highlight_superuser = false
 
@@ -304,7 +304,7 @@ highlight_superuser = false
 [cms]
  # See https://sourcethemes.com/academic/docs/install/
  netlify_cms = true
-  
+
 ############################
 ## Icon Pack Extensions
 ############################

@@ -16,8 +16,6 @@ interests:
   - Software & Data Engineering
   - Natural Language Processing
   - Music & Visual Arts
-  - Philosophy
-  - Sports
 social:
   - icon: envelop
     icon_pack: fas
