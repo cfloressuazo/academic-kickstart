@@ -119,11 +119,11 @@ date_format = "Jan 2006"
   date_end = "2016-07-01"
   description = """
   
-  I developed ETL pipelines to bring operational transactions into a data warehouse. 
-  I helped on the design of the STAR schema. 
-  I also translated business requirements into data table or views.
-  I POC'ed a new ETL tool called Pentaho for the team which was later adopted.
-  
+  Responsibilities include:
+  * I developed ETL pipelines to bring operational transactions into a data warehouse. 
+  * I helped on the design of the STAR schema. 
+  * I also translated business requirements into data table or views.
+  * I POC'ed a new ETL tool called Pentaho for the team which was later adopted.
   """
 
 +++
