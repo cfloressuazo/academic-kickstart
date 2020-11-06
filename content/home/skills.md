@@ -15,10 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fab"
+  name = "SQL"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "machine"
+  icon_pack = "custom"
+  name = "Machine Learning"
 
 # Uncomment to use emoji icons.
 # [[feature]]

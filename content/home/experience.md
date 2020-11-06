@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   
   I was responsible for the engineering and the deployment of machine learning models in production for two main data products: Demand Forecast for Supply Chain and Customer Churn.
   
-  The tools were built on python and R for POC purposes but then they needed to be re-developed in PySpark due to the size of data and because of the production ecosystem. 
+  The tools were built on python and R for POC purposes but then they needed to be re-developed in PySpark due to the size of data and because of differences between environments. 
   
   I worked on guiding and developing different modules of the tools, including the feature engineering, data loader functions and inference functions. The tools went live and are currently running as a critical part of the Supply Chain team and the Customer Service Team @ Carlsberg.
   
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   
   **Stern NL**
   
-  I was responsible of setting up the MS Azure services for data scientist to consume data and produce analytics relevant for the business. I was then making this data available to the business by loading it into a PostgreSQL data warehouse deployed on Azure. I was also guiding data scientist on best approaches to run on a schedule R scripts to produce this data.
+  I was responsible of setting up the MS Azure services for data scientists to consume data and produce analytics relevant for the business. I was then making this data available to the business by loading it into a PostgreSQL data warehouse deployed on Azure. I was also guiding data scientist on best approaches to run on a schedule R scripts to produce this data.
   
   Responsibilties include:
 
