@@ -118,19 +118,18 @@ date_format = "Jan 2006"
   date_end = "2018-07-01"
   description = """
   
-  I lead the team developing a natural language processing engine in the company for conversational Artificial Intelligence.
+  Lideré el equipo de data scientists desarrollando el motor de NLP para la compañia.
   
   Logros Técnicos:
-  - Quick machine learning deployment pipeline to production for NLP and operational tasks
-  - Over 95% Accuracy of models for similar tasks in production for the time period of 2 years
-  - Automated more than 70% of operational/product related tasks using Machine Learning
+  - Optimicé el proceso de deployment para los modelos de machine learning en AWS.
+  - Sobre el 90% de predicciones correctas para el flujo de conversaciones en base de asistentes virtuales.
+  - Automatización del 70% de las conversaciones a traves de email con nuestros clientes gracias a los modelos de clasificacion.
 
   Responsabilidades incluyen:
-  * Development a natural approach to accomplish Human-Like Conversational AI.
-  * Design the feature roadmap for NLP and Natural Language Understanding into the system.
-  * Build Artificial Intelligence customizable process based on user's interaction.
-  * Designed, built and managed automated self-learning pipeline.
-  * Train and Deploy Machine Learning and Deep Learning Models in production.
+  * Desarrollo de NLP para lograr conversaciones a nivel humano-maquina de manera natural. 
+  * Diseñé el roadmap de los features para le producto de NLP de la empresa.
+  * Construí un proceso de customizacion de modelos en base a la retro-alimentacióon de los humanos. 
+  * Entrenamiento de modelos de clasificaciôn de texto y de generacion de lenguage natural.
   """
 
 [[experience]]
