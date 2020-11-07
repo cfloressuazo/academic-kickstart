@@ -5,7 +5,15 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Cesar Flores - Innovation, Data and Engineering"
+  weight = 1
+
+[es]
+  languageCode = "es"
+  contentDir = "content/es"
+  title = "Cesar Flores - Innovación, Data e Ingeneriería"
+  weight = 2
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
