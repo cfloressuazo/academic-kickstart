@@ -25,8 +25,8 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
-  icon = "server"
-  icon_pack = "fab"
+  icon = "database"
+  icon_pack = "custom"
   name = "SQL"
 
 [[feature]]
@@ -35,9 +35,15 @@ subtitle = ""
   name = "Docker"
 
 [[feature]]
+  icon = "apacheairflow"
+  icon_pack = "custom"
+  name = "Apache Airflow"
+
+[[feature]]
   icon = "machine"
   icon_pack = "custom"
   name = "Machine Learning"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
