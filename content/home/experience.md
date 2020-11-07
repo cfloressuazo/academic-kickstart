@@ -17,13 +17,35 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Data Engineer"
+  company = "Marley Spoon GA"
+  company_url = "https://www.marleyspoon.de/"
+  location = "Berlin, Germany"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = """ 
+  
+  I just joined the digital team as a Senior Data Engineer. I'm currently working on the migration of a data warehouse
+  into Snowflake, ETL development with Airflow and data modeling and warehousing.
+  
+  Responsibilities include:
+  
+  * ETL Pipeline development with Airflow, SQL and Python.
+  * Data warehousing and data modelling
+  * Refactor of legacy code
+  * Data products development
+  
+  """
+
 [[experience]]
   title = "Engineering Manager"
   company = "YGroup Companies"
   company_url = "https://www.ygroupcompanies.com/"
   location = "Amsterdam, NL"
   date_start = "2020-03-01"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """
   
   I managed an engineering team building an enterprise data platform that serves as a central point for BI and analytics for Carlsberg.
@@ -50,7 +72,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ygroupcompanies.com/"
   location = "Amsterdam, NL"
   date_start = "2018-07-01"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """
   
   As a Senior Data Engineer at a consultancy company I was providing guidance in the implementation of Data Platforms for enterprises, developing data products and assuring that the development of these followed the best practices in the industry. 
