@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Sobre Mi"
+  name = "Inicio"
   url = "#about"
   weight = 10
 
@@ -31,6 +31,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-    name = "Curriculum"
+    name = "CV"
     url = "files/CF_CV_Minimal_Es.pdf"
     weight = 70
