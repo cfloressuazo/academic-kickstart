@@ -19,18 +19,13 @@
   weight = 30
 
 [[main]]
-  name = "Publicaciones"
-  url = "#featured"
-  weight = 40
-
-[[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 60
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "files/CF_CV_Minimal_Es.pdf"
-    weight = 70
+    weight = 50
