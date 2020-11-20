@@ -55,29 +55,43 @@ and can drive automation for human-centered activities.
 
 A key concept here is the concept of events; every data point that is produced for, and/or 
 in the platform, it is treated as a timestamped event which (can) trigger
-any type of operation or procedure defined in the system - at the method required.
+any type of operation or procedure defined in the system - at the method required, in an 
+_append only_ model, which will enrich the existing data but never overwrite it.
 
-In order to cope with the infrastructure needed - latency, throughput, and fault-tolerance - 
-for the batch as well as for the real-time data processing, we can base our implementations
-on `serverless architecture` in AWS that allows building and running the components of the 
-platform without having to manage infrastructure.
+In order to design the platform to handle a large amount of events, Lambda architecture 
+introduces three layers for data-processing: **batch layer, speed layer & serving layer**.
+ 
+In order to cope with the infrastructure needed for the data-processing (real time/batch) - 
+latency, throughput, and fault-tolerance - we can base our implementation stacks on 
+[`serverless architecture`](https://aws.amazon.com/lambda/serverless-architectures-learn-more/) 
+in AWS that allows building and running the components of the platform without having 
+to manage infrastructure.
+
 
 
 ### Why is it needed?
-Imagine you are a product company whcih vision is to provide your clients with the best experience possible, the 
-best way to know how to improve their experience is by making the right decisions at the right time. How can you
-make sure you are not biasing your decisions on your perception only? Analyzing and interpreting data will give you
-a competetive advantge. Of course you need to make sure data is available at the right time, with the right quality and 
-with enough flexiblity to look at the whole universe around your product. 
+Imagine you are a product company whose vision is to provide your users or clients with the best 
+experience possible, improve sales, be more efficient, you name it... the best way to know how to 
+do this, is by making the right decisions at the right time. 
 
-By using 
-This architecture breaks with the CAP therem which states that no system can handle enables to increase throughput, reduce latency and avoid silly 
-data processing errors.
+But, **How do you make sure you are not biasing your decisions on your perception only?** 
 
-By using a serverless architecture, your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises. This reduced overhead lets developers reclaim time and energy that can be spent on developing great products which scale and that are reliable.
+Well, analyzing and interpreting data will give you a competitive advantage to base your moves 
+on metrics/measures/numbers. Of course, you need to make sure this massive amount of 
+data is trustable, available at the right time and flexible enough to look at the whole 
+universe around your product and your customers. **The three layers in the 
+design of a lambda architecture based system will support this.**
+
 ## What are the benefits of using lambda architecture?
+
+It is a fact that companies have to deal with their legacy systems and that's why the main objective
+of a data-processing platform based on lambda architecture should be to be as close as possible to
+the data producer layers. This way the company set up an independent data layer that includes both 
+commercial databases and open-source components. Data is synced with back-end systems via a proprietary 
+enterprise service bus, and microservices hosted in containers run business logic on the data.
 
 ## Model of a data platform using lambda architecture in AWS
 
 ## Samples of how can be useful
  
+## Github reference project
